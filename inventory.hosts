@@ -1,7 +1,7 @@
 
 # GROUP NAME FOR MY WEB SERVER
 [webserver]
-52.210.147.159      # IP ADDRESS OF MY EC2 SERVER
+54.217.5.101   # IP ADDRESS OF MY EC2 SERVER
 
 [webserver:vars]
 ansible_user = "ec2-user"
